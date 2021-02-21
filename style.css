@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color:rgb(0, 0, 0);
+   
+}
+
+.header *{
+    border:solid;
+    justify-content: center;
+}
+body *{
+    background-color:#00d9ff;
+    border:solid;
+    }
+    h2{
+        text-align: center;
+        color:rgb(0, 0, 0);
+        border:solid;
+    }
+
+
+
